@@ -110,3 +110,17 @@ CREATE TABLE `exampleSchema`.`productorder` (
 <img width="1064" alt="productorder database" src="https://github.com/Moon-GD/mysql-self-taught/assets/74173976/52ff9b16-2370-45b6-9083-8d69fd7f9283">
 
 <br>
+
+### 3️⃣ insert sample data
+- insert sample datum in product table
+
+```mysql
+INSERT INTO `exampleschema`.`product` (`product_id`, `product_name`, `stock`, `price`) VALUES ('1', '약용 입욕제', '100', '70');
+INSERT INTO `exampleschema`.`product` (`product_id`, `product_name`, `stock`, `price`) VALUES ('2', '약용 핸드솝', '23', '700');
+INSERT INTO `exampleschema`.`product` (`product_id`, `product_name`, `stock`, `price`) VALUES ('3', '천연 아로마 입욕제', '4', '120');
+INSERT INTO `exampleschema`.`product` (`product_id`, `product_name`, `stock`, `price`) VALUES ('4', '거품 목욕제', '23', '120');
+```
+
+<img width="270" alt="insert sample data" src="https://github.com/Moon-GD/mysql-self-taught/assets/74173976/fed75dae-fe2e-406a-a5d7-84a69bdffdd3">
+
+<br>
