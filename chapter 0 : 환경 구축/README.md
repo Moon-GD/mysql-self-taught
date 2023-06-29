@@ -110,5 +110,3 @@ CREATE TABLE `exampleSchema`.`productorder` (
 <img width="1064" alt="productorder database" src="https://github.com/Moon-GD/mysql-self-taught/assets/74173976/52ff9b16-2370-45b6-9083-8d69fd7f9283">
 
 <br>
-
-<br>
