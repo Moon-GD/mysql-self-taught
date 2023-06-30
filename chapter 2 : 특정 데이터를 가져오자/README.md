@@ -24,6 +24,7 @@
 - '_' : 임의의 문자 1개를 의미
 - '%' : 0개 이상의 임의의 문자열을 의미
 ```mysql
+# 서울에 거주하는 성이 김이고 3글자 이름을 가지는 사람의 정보를 모두 찾아라
 select * from testTable where 
     name LIKE '김__' AND
     address LIKE '서울%';
