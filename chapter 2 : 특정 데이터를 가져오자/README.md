@@ -19,6 +19,14 @@
 <img width="290" alt="BINARY 사용 후" src="https://github.com/Moon-GD/mysql-self-taught/assets/74173976/81a3dfe9-92fe-4416-a4ba-ba9eaed4fea7">
 <br><br>
 
-
+## 2. 문자열 포함
+### 1️⃣ LIKE 연산자와 함께 사용되는 '_' & '%'
+- '_' : 임의의 문자 1개를 의미
+- '%' : 0개 이상의 임의의 문자열을 의미
+```mysql
+select * from testTable where 
+    name LIKE '김__' AND
+    address LIKE '서울%';
+```
 
 <br>
