@@ -112,7 +112,7 @@ CREATE TABLE `exampleSchema`.`productorder` (
 <br>
 
 ### 3️⃣ insert sample data
-- insert sample datum in product table
+- insert sample data in product table
 
 ```mysql
 INSERT INTO `exampleschema`.`product` (`product_id`, `product_name`, `stock`, `price`) VALUES ('1', '약용 입욕제', '100', '70');
