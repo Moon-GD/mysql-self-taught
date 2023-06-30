@@ -1,4 +1,4 @@
-# chapter 1 : SQL로 데터를 가져오자
+# chapter 1 : SQL로 데이터를 가져오자
 
 <br>
 
