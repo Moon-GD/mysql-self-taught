@@ -8,5 +8,17 @@
     - 1. 대소문자 무시 → 'a' = 'A'  # true
     - 2. 끝의 공백 무시 → 'b' = 'b '  # true (다만, 이 경우 환경에 따라 툴이 끝의 공백을 잘라주는 경우도 있음)
 - 따라서 대소문자를 구분하여 정확한 동등 비교를 원하는 경우 BINARY 예약어를 활용하면 된다
+- BINARY 사용 전
+
+<img width="285" alt="BINARY 사용 전" src="https://github.com/Moon-GD/mysql-self-taught/assets/74173976/5855f73c-5d81-451c-b87f-5593e411b6cc">
+
+<br>
+
+- BINARY 사용 후
+
+<img width="290" alt="BINARY 사용 후" src="https://github.com/Moon-GD/mysql-self-taught/assets/74173976/81a3dfe9-92fe-4416-a4ba-ba9eaed4fea7">
+<br><br>
+
+
 
 <br>
