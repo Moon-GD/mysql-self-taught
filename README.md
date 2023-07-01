@@ -19,9 +19,14 @@
 
 <br>
 
-- <a href="https://github.com/Moon-GD/mysql-self-taught/tree/main/chapter%200%20%3A%20환경%20구축#chapter-0--환경-구축">chapter 0</a> : 2023.06.29
-- <a href="https://github.com/Moon-GD/mysql-self-taught/blob/main/chapter%202%20%3A%20특정%20데이터를%20가져오자/README.md#chapter-2--특정-데이터를-가져오자">chapter 1</a> : 2023.06.30
-- <a href="https://github.com/Moon-GD/mysql-self-taught/blob/main/chapter%202%20%3A%20특정%20데이터를%20가져오자/README.md#chapter-2--특정-데이터를-가져오자">chapter 2</a> : 2023.06.30
-- <a href="https://github.com/Moon-GD/mysql-self-taught/tree/main/chapter%203%20:%20복합%20조건%20검색#chapter-3--복합-조건-검색">chapter 3</a> : 2023.07.01
-- <a href="https://github.com/Moon-GD/mysql-self-taught/blob/main/chapter%204%20%3A%20데이터%20통합/README.md#chapter-4--데이터-통합">chapter 4</a> : 2023.07.01
+- <a href="https://github.com/Moon-GD/mysql-self-taught/tree/main/chapter%200%20%3A%20환경%20구축#chapter-0--환경-구축">chapter 0 TIL</a> : 2023.06.29
+- <a href="https://github.com/Moon-GD/mysql-self-taught/blob/main/chapter%202%20%3A%20특정%20데이터를%20가져오자/README.md#chapter-2--특정-데이터를-가져오자">chapter 1 TIL</a> : 2023.06.30
+- <a href="https://github.com/Moon-GD/mysql-self-taught/blob/main/chapter%202%20%3A%20특정%20데이터를%20가져오자/README.md#chapter-2--특정-데이터를-가져오자">chapter 2 TIL</a> : 2023.06.30
+- <a href="https://github.com/Moon-GD/mysql-self-taught/tree/main/chapter%203%20:%20복합%20조건%20검색#chapter-3--복합-조건-검색">chapter 3 TIL</a> : 2023.07.01
+- <a href="https://github.com/Moon-GD/mysql-self-taught/blob/main/chapter%204%20%3A%20데이터%20통합/README.md#chapter-4--데이터-통합">chapter 4 TIL</a> : 2023.07.01
+
+
+---
+
+
 updated : 2023.07.01 (토)
