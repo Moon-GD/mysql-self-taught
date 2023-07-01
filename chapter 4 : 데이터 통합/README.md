@@ -57,7 +57,34 @@ SELECT COUNT(stock), SUM(stock) FROM 'sample table';
 
 <br>
 
-### 4️⃣ 
-- 
+### 4️⃣ GROUP BY의 유의 사항
+- group key에 NULL 값이 존재하는 경우 NULL도 하나의 그룹을 생성한다
+- GROUP BY된 table에서 SELECT를 하는 경우, 집계 함수의 경우와 동일하게 하나의 레코드만을 출력할 수 있어야 한다. (단, group key로 사용된 컬럼 명은 활용 가능!)
+- 여러 개의 group key가 활용된 경우 query에 작성된 순서대로 그룹화를 진행
+- GROUP BY는 WHERE 키워드 다음에 실행됨 ⭐️⭐️⭐️
+
+<br>
+
+### 5️⃣ HAVING, group에 조건 주기
+- 기본적인 내용은 Easy ㅎㅎ
+- HAVING의 조건 판단은 group마다 시행된다는 것만 기억하자!
+
+<br>
+
+### 6️⃣ MySQL 키워드 실행 순서 ⭐️⭐️⭐️⭐️⭐️
+- 기본적인 키워드 SELECT, DISTINCT, FROM, WHERE, GROUP BY, HAVING에 대해서...
+- 1. FROM : table 호출
+- 2. WHERE : 조건에 맞는 레코드 추출
+- 3. GROUP BY : group key(s)를 기준으로 그룹화
+- 4. HAVING : 그룹별로 조건에 맞는 레코드 추출
+- 5. SELECT : 지금까지 저장된 데이터 가져옴
+- 6. DISTINCT : SELECT에 의해 선택된 데이터에서 중복 제거
+- 연산 순서를 명확히 알고 query를 작성해야 아래와 같은 실수를 안할 수 있겠지? (Tool에 의존하지 않는 습관은 필수이니 😊)
+
+```mysql
+SELECT pref as '지역' FROM inquiry GROUP BY '지역';
+# query 작성 환경에 따라 오류가 안 날 수도 있겠지만...
+# MySQL 키워드 실행 순서에 따르면 오류가 나야하는 query임!
+```
 
 <br>
