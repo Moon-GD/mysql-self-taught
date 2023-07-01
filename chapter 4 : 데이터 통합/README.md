@@ -2,7 +2,6 @@
 
 <br>
 
-## 1. sample table 생성
 ### 1️⃣ '설문 결과' 관련 간단한 table 생성 및 데이터 삽입
 - table 생성 query
 
