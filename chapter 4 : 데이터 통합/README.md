@@ -42,6 +42,7 @@ INSERT INTO `exampleSchema`.`inquiry` (`id`, `pref`, `age`, `star`) VALUES ('6',
 - 위의 집계 함수 중 COUNT만이 NULL 값도 연산에 포함
 
 - sample table
+
 |name|stock|
 |:-|:-|
 |샴푸|10|
