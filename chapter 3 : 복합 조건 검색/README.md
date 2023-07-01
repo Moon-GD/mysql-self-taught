@@ -2,16 +2,16 @@
 
 <br>
 
-## 1. 
-### 1️⃣ BETWEEN 연산자
+## 1. 조건 검색 관련 키워드
+### 1️⃣ BETWEEN
 - 'x이상 y사이의 price'라는 조건을 줄 때 Between을 활용하는 것이 더 직관적! 생각하는 수고로움을 덜어준다
-- BETWEEN 연산자 활용 전
+- BETWEEN 활용 전
 
 ```mysql
 WHERE x <= price AND price <= y;
 ```
 
-- BETWEEN 연산자 활용 후
+- BETWEEN 활용 후
 
 ```mysql
 WHERE price BETWEEN x AND y;
@@ -21,16 +21,16 @@ WHERE price BETWEEN x AND y;
 
 <br>
 
-### 2️⃣ IN 연산자
+### 2️⃣ IN
 - OR 연산의 반복이 길어질 때 활용할 수 있는 연산자. 이 또한 가독성을 위해 활용될 수 있다
 - 예를 들어, 'age가 10대, 20대, 30대'인 조건을 주고자 한다면...
-- IN 연산자 활용 전
+- IN 활용 전
 
 ```mysql
 WHERE age = '10대' OR age = '20대' OR '30대';
 ```
 
-- IN 연산자 활용 후
+- IN 활용 후
 
 ```mysql
 WHERE age IN ('10대', '20대', '30대');
