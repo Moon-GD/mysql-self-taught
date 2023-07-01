@@ -19,4 +19,7 @@
 
 <br>
 
-updated : 2023.06.29 (목)
+- <a href="https://github.com/Moon-GD/mysql-self-taught/tree/main/chapter%200%20%3A%20환경%20구축">chapter 0</a> : 2023.6.29
+- <a href="https://github.com/Moon-GD/mysql-self-taught/tree/main/chapter%201%20%3A%20SQL로%20데이터를%20가져오자">chapter 1</a> : 2023.6.30
+- <a href="https://github.com/Moon-GD/mysql-self-taught/tree/main/chapter%202%20%3A%20특정%20데이터를%20가져오자">chapter 2</a> : 2023.6.30
+updated : 2023.06.30 (금)
