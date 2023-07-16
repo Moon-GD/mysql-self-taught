@@ -98,6 +98,8 @@ SELECT * FROM product LIMIT 3 OFFSET 5;
 SELECT * FROM product LIMIT 5, 3;
 ```
 
+<br>
+
 ### 3️⃣ LIMIT, OFFSET 실행 순서
 - 자연스럽게 OFFSET → LIMIT 순서임! Too Easy~ 😊
 
