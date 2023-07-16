@@ -24,7 +24,7 @@
 - <a href="https://github.com/Moon-GD/mysql-self-taught/blob/main/chapter%202%20%3A%20특정%20데이터를%20가져오자/README.md#chapter-2--특정-데이터를-가져오자">chapter 2 TIL</a> : 2023.06.30
 - <a href="https://github.com/Moon-GD/mysql-self-taught/tree/main/chapter%203%20:%20복합%20조건%20검색#chapter-3--복합-조건-검색">chapter 3 TIL</a> : 2023.07.01
 - <a href="https://github.com/Moon-GD/mysql-self-taught/blob/main/chapter%204%20%3A%20데이터%20통합/README.md#chapter-4--데이터-통합">chapter 4 TIL</a> : 2023.07.01
-
+- <a href="https://github.com/Moon-GD/mysql-self-taught/tree/main/chapter%205%20:%20데이터%20정렬#chapter-5--데이터-정렬">chapter 5 TIL</a> : 2023.07.16 (신입사원 연수 다녀온다고 TIL 작성이 늦었당.. ㅎㅎ)
 
 ---
 
