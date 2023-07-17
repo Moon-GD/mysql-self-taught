@@ -27,6 +27,7 @@
 - <a href="https://github.com/Moon-GD/mysql-self-taught/tree/main/chapter%205%20:%20데이터%20정렬#chapter-5--데이터-정렬">chapter 5 TIL</a> : 2023.07.16 (신입사원 연수 다녀온다고 TIL 작성이 늦었당.. ㅎㅎ)
 - <a href="https://github.com/Moon-GD/mysql-self-taught/tree/main/chapter%206%20:%20데이터%20편집#chapter-6--데이터-편집">chapter 6 TIL</a> : 2023.07.16
 - <a href="https://github.com/Moon-GD/mysql-self-taught/tree/main/chapter%207%20:%20중첩%20SELECT#chapter-7--중첩-select">chapter 7 TIL</a> : 2023.07.17
+- <a href="https://github.com/Moon-GD/mysql-self-taught/tree/main/chapter%208%20%3A%20테이블%20합치기#chapter-8--테이블-합치기">chapter 8 TIL</a> : 2023.07.17
 
 ---
 
